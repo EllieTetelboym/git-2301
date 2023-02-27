@@ -1,8 +1,10 @@
 body {
-    /* your styles here */
+    color: pink;
+    font-style: oblique;
   }
   
   h1, #designed-by {
+    text-align: center;
     /* your styles here */
   }
   
